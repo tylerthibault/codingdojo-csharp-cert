@@ -1,0 +1,15 @@
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\02collectionPractice\obj\Debug\net6.0\02collectionPractice.csproj.AssemblyReference.cache
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\02collectionPractice\obj\Debug\net6.0\02collectionPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\02collectionPractice\obj\Debug\net6.0\02collectionPractice.AssemblyInfoInputs.cache
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\02collectionPractice\obj\Debug\net6.0\02collectionPractice.AssemblyInfo.cs
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\02collectionPractice\obj\Debug\net6.0\02collectionPractice.csproj.CoreCompileInputs.cache
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\02collectionPractice\bin\Debug\net6.0\02collectionPractice.exe
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\02collectionPractice\bin\Debug\net6.0\02collectionPractice.deps.json
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\02collectionPractice\bin\Debug\net6.0\02collectionPractice.runtimeconfig.json
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\02collectionPractice\bin\Debug\net6.0\02collectionPractice.dll
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\02collectionPractice\bin\Debug\net6.0\02collectionPractice.pdb
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\02collectionPractice\obj\Debug\net6.0\02collectionPractice.dll
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\02collectionPractice\obj\Debug\net6.0\refint\02collectionPractice.dll
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\02collectionPractice\obj\Debug\net6.0\02collectionPractice.pdb
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\02collectionPractice\obj\Debug\net6.0\02collectionPractice.genruntimeconfig.cache
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\02collectionPractice\obj\Debug\net6.0\ref\02collectionPractice.dll
