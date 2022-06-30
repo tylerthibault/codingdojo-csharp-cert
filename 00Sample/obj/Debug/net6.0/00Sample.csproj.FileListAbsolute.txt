@@ -1,0 +1,15 @@
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\00Sample\bin\Debug\net6.0\00Sample.exe
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\00Sample\bin\Debug\net6.0\00Sample.deps.json
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\00Sample\bin\Debug\net6.0\00Sample.runtimeconfig.json
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\00Sample\bin\Debug\net6.0\00Sample.dll
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\00Sample\bin\Debug\net6.0\00Sample.pdb
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\00Sample\obj\Debug\net6.0\00Sample.csproj.AssemblyReference.cache
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\00Sample\obj\Debug\net6.0\00Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\00Sample\obj\Debug\net6.0\00Sample.AssemblyInfoInputs.cache
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\00Sample\obj\Debug\net6.0\00Sample.AssemblyInfo.cs
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\00Sample\obj\Debug\net6.0\00Sample.csproj.CoreCompileInputs.cache
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\00Sample\obj\Debug\net6.0\00Sample.dll
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\00Sample\obj\Debug\net6.0\refint\00Sample.dll
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\00Sample\obj\Debug\net6.0\00Sample.pdb
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\00Sample\obj\Debug\net6.0\00Sample.genruntimeconfig.cache
+C:\Users\thiba\Documents\0.WORK\My Prep\codingdojo-csharp-cert\00Sample\obj\Debug\net6.0\ref\00Sample.dll
