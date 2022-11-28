@@ -1,0 +1,15 @@
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\03DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.csproj.AssemblyReference.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\03DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\03DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.AssemblyInfoInputs.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\03DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.AssemblyInfo.cs
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\03DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.csproj.CoreCompileInputs.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\03DebuggingPractice\bin\Debug\net6.0\DebuggingPractice.exe
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\03DebuggingPractice\bin\Debug\net6.0\DebuggingPractice.deps.json
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\03DebuggingPractice\bin\Debug\net6.0\DebuggingPractice.runtimeconfig.json
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\03DebuggingPractice\bin\Debug\net6.0\DebuggingPractice.dll
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\03DebuggingPractice\bin\Debug\net6.0\DebuggingPractice.pdb
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\03DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.dll
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\03DebuggingPractice\obj\Debug\net6.0\refint\DebuggingPractice.dll
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\03DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.pdb
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\03DebuggingPractice\obj\Debug\net6.0\DebuggingPractice.genruntimeconfig.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\03DebuggingPractice\obj\Debug\net6.0\ref\DebuggingPractice.dll
