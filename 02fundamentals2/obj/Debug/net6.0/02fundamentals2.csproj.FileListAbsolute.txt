@@ -1,0 +1,15 @@
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\02fundamentals2\obj\Debug\net6.0\02fundamentals2.csproj.AssemblyReference.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\02fundamentals2\obj\Debug\net6.0\02fundamentals2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\02fundamentals2\obj\Debug\net6.0\02fundamentals2.AssemblyInfoInputs.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\02fundamentals2\obj\Debug\net6.0\02fundamentals2.AssemblyInfo.cs
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\02fundamentals2\obj\Debug\net6.0\02fundamentals2.csproj.CoreCompileInputs.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\02fundamentals2\bin\Debug\net6.0\02fundamentals2.exe
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\02fundamentals2\bin\Debug\net6.0\02fundamentals2.deps.json
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\02fundamentals2\bin\Debug\net6.0\02fundamentals2.runtimeconfig.json
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\02fundamentals2\bin\Debug\net6.0\02fundamentals2.dll
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\02fundamentals2\bin\Debug\net6.0\02fundamentals2.pdb
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\02fundamentals2\obj\Debug\net6.0\02fundamentals2.dll
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\02fundamentals2\obj\Debug\net6.0\refint\02fundamentals2.dll
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\02fundamentals2\obj\Debug\net6.0\02fundamentals2.pdb
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\02fundamentals2\obj\Debug\net6.0\02fundamentals2.genruntimeconfig.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\02fundamentals2\obj\Debug\net6.0\ref\02fundamentals2.dll
