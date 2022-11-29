@@ -1,0 +1,15 @@
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\05Puzzels\obj\Debug\net6.0\05Puzzels.csproj.AssemblyReference.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\05Puzzels\obj\Debug\net6.0\05Puzzels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\05Puzzels\obj\Debug\net6.0\05Puzzels.AssemblyInfoInputs.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\05Puzzels\obj\Debug\net6.0\05Puzzels.AssemblyInfo.cs
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\05Puzzels\obj\Debug\net6.0\05Puzzels.csproj.CoreCompileInputs.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\05Puzzels\bin\Debug\net6.0\05Puzzels.exe
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\05Puzzels\bin\Debug\net6.0\05Puzzels.deps.json
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\05Puzzels\bin\Debug\net6.0\05Puzzels.runtimeconfig.json
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\05Puzzels\bin\Debug\net6.0\05Puzzels.dll
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\05Puzzels\bin\Debug\net6.0\05Puzzels.pdb
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\05Puzzels\obj\Debug\net6.0\05Puzzels.dll
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\05Puzzels\obj\Debug\net6.0\refint\05Puzzels.dll
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\05Puzzels\obj\Debug\net6.0\05Puzzels.pdb
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\05Puzzels\obj\Debug\net6.0\05Puzzels.genruntimeconfig.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\05Puzzels\obj\Debug\net6.0\ref\05Puzzels.dll
