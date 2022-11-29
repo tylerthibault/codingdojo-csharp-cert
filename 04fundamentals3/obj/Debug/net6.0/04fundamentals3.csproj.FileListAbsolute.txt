@@ -1,0 +1,15 @@
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\04fundamentals3\obj\Debug\net6.0\04fundamentals3.csproj.AssemblyReference.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\04fundamentals3\obj\Debug\net6.0\04fundamentals3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\04fundamentals3\obj\Debug\net6.0\04fundamentals3.AssemblyInfoInputs.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\04fundamentals3\obj\Debug\net6.0\04fundamentals3.AssemblyInfo.cs
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\04fundamentals3\obj\Debug\net6.0\04fundamentals3.csproj.CoreCompileInputs.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\04fundamentals3\bin\Debug\net6.0\04fundamentals3.exe
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\04fundamentals3\bin\Debug\net6.0\04fundamentals3.deps.json
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\04fundamentals3\bin\Debug\net6.0\04fundamentals3.runtimeconfig.json
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\04fundamentals3\bin\Debug\net6.0\04fundamentals3.dll
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\04fundamentals3\bin\Debug\net6.0\04fundamentals3.pdb
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\04fundamentals3\obj\Debug\net6.0\04fundamentals3.dll
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\04fundamentals3\obj\Debug\net6.0\refint\04fundamentals3.dll
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\04fundamentals3\obj\Debug\net6.0\04fundamentals3.pdb
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\04fundamentals3\obj\Debug\net6.0\04fundamentals3.genruntimeconfig.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\04fundamentals3\obj\Debug\net6.0\ref\04fundamentals3.dll
