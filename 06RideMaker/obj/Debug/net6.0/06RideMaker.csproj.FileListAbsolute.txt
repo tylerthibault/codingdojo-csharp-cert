@@ -1,0 +1,15 @@
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\06RideMaker\bin\Debug\net6.0\06RideMaker.exe
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\06RideMaker\bin\Debug\net6.0\06RideMaker.deps.json
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\06RideMaker\bin\Debug\net6.0\06RideMaker.runtimeconfig.json
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\06RideMaker\bin\Debug\net6.0\06RideMaker.dll
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\06RideMaker\bin\Debug\net6.0\06RideMaker.pdb
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\06RideMaker\obj\Debug\net6.0\06RideMaker.csproj.AssemblyReference.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\06RideMaker\obj\Debug\net6.0\06RideMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\06RideMaker\obj\Debug\net6.0\06RideMaker.AssemblyInfoInputs.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\06RideMaker\obj\Debug\net6.0\06RideMaker.AssemblyInfo.cs
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\06RideMaker\obj\Debug\net6.0\06RideMaker.csproj.CoreCompileInputs.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\06RideMaker\obj\Debug\net6.0\06RideMaker.dll
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\06RideMaker\obj\Debug\net6.0\refint\06RideMaker.dll
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\06RideMaker\obj\Debug\net6.0\06RideMaker.pdb
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\06RideMaker\obj\Debug\net6.0\06RideMaker.genruntimeconfig.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\06RideMaker\obj\Debug\net6.0\ref\06RideMaker.dll
