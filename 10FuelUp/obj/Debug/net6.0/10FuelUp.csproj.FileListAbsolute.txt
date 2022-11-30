@@ -1,0 +1,15 @@
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\10FuelUp\bin\Debug\net6.0\10FuelUp.exe
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\10FuelUp\bin\Debug\net6.0\10FuelUp.deps.json
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\10FuelUp\bin\Debug\net6.0\10FuelUp.runtimeconfig.json
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\10FuelUp\bin\Debug\net6.0\10FuelUp.dll
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\10FuelUp\bin\Debug\net6.0\10FuelUp.pdb
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\10FuelUp\obj\Debug\net6.0\10FuelUp.csproj.AssemblyReference.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\10FuelUp\obj\Debug\net6.0\10FuelUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\10FuelUp\obj\Debug\net6.0\10FuelUp.AssemblyInfoInputs.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\10FuelUp\obj\Debug\net6.0\10FuelUp.AssemblyInfo.cs
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\10FuelUp\obj\Debug\net6.0\10FuelUp.csproj.CoreCompileInputs.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\10FuelUp\obj\Debug\net6.0\10FuelUp.dll
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\10FuelUp\obj\Debug\net6.0\refint\10FuelUp.dll
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\10FuelUp\obj\Debug\net6.0\10FuelUp.pdb
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\10FuelUp\obj\Debug\net6.0\10FuelUp.genruntimeconfig.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\10FuelUp\obj\Debug\net6.0\ref\10FuelUp.dll
