@@ -1,0 +1,15 @@
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\08DrinkMaker\obj\Debug\net6.0\08DrinkMaker.csproj.AssemblyReference.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\08DrinkMaker\obj\Debug\net6.0\08DrinkMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\08DrinkMaker\obj\Debug\net6.0\08DrinkMaker.AssemblyInfoInputs.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\08DrinkMaker\obj\Debug\net6.0\08DrinkMaker.AssemblyInfo.cs
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\08DrinkMaker\obj\Debug\net6.0\08DrinkMaker.csproj.CoreCompileInputs.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\08DrinkMaker\bin\Debug\net6.0\08DrinkMaker.exe
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\08DrinkMaker\bin\Debug\net6.0\08DrinkMaker.deps.json
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\08DrinkMaker\bin\Debug\net6.0\08DrinkMaker.runtimeconfig.json
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\08DrinkMaker\bin\Debug\net6.0\08DrinkMaker.dll
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\08DrinkMaker\bin\Debug\net6.0\08DrinkMaker.pdb
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\08DrinkMaker\obj\Debug\net6.0\08DrinkMaker.dll
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\08DrinkMaker\obj\Debug\net6.0\refint\08DrinkMaker.dll
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\08DrinkMaker\obj\Debug\net6.0\08DrinkMaker.pdb
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\08DrinkMaker\obj\Debug\net6.0\08DrinkMaker.genruntimeconfig.cache
+C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\08DrinkMaker\obj\Debug\net6.0\ref\08DrinkMaker.dll
