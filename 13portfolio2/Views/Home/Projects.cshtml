@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Document</title>
+</head>
+
+<body class="flex flex-col items-center w-full">
+    <ul class="flex gap-3 my-5">
+        <li><a href="/">Home</a></li>
+        <li><a href="/projects">Projects</a></li>
+        <li><a href="/contacts">Contacts</a></li>
+    </ul>
+    <h1 class="text-4xl">My Projects</h1>
+    <div class="border p-10 my-5">
+        @{
+            for (var i = 0; i < 3; i++)
+            {
+                <div class="flex items-center gap-10">
+                    <div class="my-3">
+                        <img class="h-40" src="https://images.pexels.com/photos/3888151/pexels-photo-3888151.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="project pic">
+                    </div>
+                    <div>
+                        <h2>Project @(i+1)</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo atque quasi inventore voluptatibus quo
+                            cupiditate ipsam quas, accusantium dolorem dolorum et ducimus. Magnam, hic laudantium!</p>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</body>
+
+
+</html>
