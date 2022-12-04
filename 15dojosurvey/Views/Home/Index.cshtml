@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="/formProcess" method="post">
+        <div class="mb-3">
+            <label for="name">Name</label>
+            <input type="text" name="name" id="name">
+        </div>
+        <div>
+            <label for="loc">Dojo Location</label>
+            <select name="loc" id="loc">
+                <option value="San Jose">San Jose</option>
+                <option value="online">online</option>
+            </select>
+        </div>
+        <div>
+            <label for="lang">Favorite Language</label>
+            <select name="lang" id="lang">
+                <option value="python">python</option>
+                <option value="csharp">csharp</option>
+                <option value="java">java</option>
+                <option value="javascript">javascript</option>
+            </select>
+        </div>
+        <div>
+            <label for="comments">Comments (Optional)</label>
+            <textarea name="comments" id="comments" cols="30" rows="10"></textarea>
+        </div>
+        <button>Submit</button>
+    </form>
+</body>
+</html>

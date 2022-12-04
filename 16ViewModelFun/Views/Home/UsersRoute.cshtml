@@ -1,0 +1,14 @@
+@{
+    ViewData["Title"] = "Number Page";
+}
+@model List<User>
+
+<div class="d-flex flex-column align-items-center">
+    <h1>Here is a list of users</h1>
+    @{
+        foreach (var user in Model)
+        {
+            <p>@user.FirstName @user.LastName</p>
+        }
+    }
+</div>
