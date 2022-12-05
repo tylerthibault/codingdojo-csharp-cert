@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Form
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <form action="/formchecker" method="post">
+        <div class="mb-3">
+            <label asp-for="Name"></label>
+            <input class="form-control" asp-for="Name">
+            <span asp-validation-for="Name"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Email"></label>
+            <input class="form-control" asp-for="Email" type="text">
+            <span asp-validation-for="Email"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="DOB"></label>
+            <input class="form-control" asp-for="DOB">
+            <span asp-validation-for="DOB"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="PW"></label>
+            <input class="form-control" asp-for="PW">
+            <span asp-validation-for="PW"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Num"></label>
+            <input class="form-control" asp-for="Num">
+            <span asp-validation-for="Num"></span>
+        </div>
+        <button class="btn btn-success">Submit</button>
+    </form>
+</div>
