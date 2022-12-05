@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Form
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <form action="/form/process" method="post" class="d-flex flex-column">
+        <label asp-for="Name"></label>
+        <input class="form-control" asp-for="Name">
+        <span asp-validation-for="Name"></span>
+        <label asp-for="Loc"></label>
+        <select class="form-select" asp-for="Loc">
+            <option value="Seattle">Seattle</option>
+            <option value="Cashmere">Cashmere</option>
+            <option value="Wenatchee">Wenatchee</option>
+            <option value="Spokane">Spokane</option>
+        </select>
+        <span asp-validation-for="Loc"></span>
+        <label asp-for="Lang"></label>
+        <select class="form-select" asp-for="Lang">
+            <option value="Python">Python</option>
+            <option value="CSharp">CSharp</option>
+            <option value="Java">Java</option>
+            <option value="JavaScript">JavaScript</option>
+        </select>
+        <span asp-validation-for="Lang"></span>
+        <label asp-for="Comment"></label>
+        <input class="form-control" asp-for="Comment">
+        <span asp-validation-for="Comment"></span>
+        <button class="btn btn-success mt-3">Submit Info</button>
+    </form>
+</div>
