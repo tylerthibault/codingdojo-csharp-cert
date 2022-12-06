@@ -8,21 +8,21 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _13portfolio2
 build_property.RootNamespace = _13portfolio2
-build_property.ProjectDir = C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\13portfolio2\
+build_property.ProjectDir = c:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\13portfolio2\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\13portfolio2
+build_property.MSBuildProjectDirectory = c:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\13portfolio2
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/thiba/OneDrive/Documents/Coding/01MYPREP/codingdojo-csharp-cert/13portfolio2/Views/Home/Contacts.cshtml]
+[c:/Users/thiba/OneDrive/Documents/Coding/01MYPREP/codingdojo-csharp-cert/13portfolio2/Views/Home/Contacts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/thiba/OneDrive/Documents/Coding/01MYPREP/codingdojo-csharp-cert/13portfolio2/Views/Home/Index.cshtml]
+[c:/Users/thiba/OneDrive/Documents/Coding/01MYPREP/codingdojo-csharp-cert/13portfolio2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/thiba/OneDrive/Documents/Coding/01MYPREP/codingdojo-csharp-cert/13portfolio2/Views/Home/Projects.cshtml]
+[c:/Users/thiba/OneDrive/Documents/Coding/01MYPREP/codingdojo-csharp-cert/13portfolio2/Views/Home/Projects.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9qZWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

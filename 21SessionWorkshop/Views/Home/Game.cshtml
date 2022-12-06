@@ -1,0 +1,30 @@
+<div class="d-flex justify-content-between align-items-center">
+    <h2>Welcome @Context.Session.GetString("UserName")</h2>
+    <a href="/logout" class="btn btn-danger">Logout</a>
+</div>
+<div>
+    <h1>Game</h1>
+    <h2>@Context.Session.GetInt32("Number")</h2>
+    <div class="flex gap-3">
+        <div class="flex flex-col gap-3">
+            <form action="/numberhandler" method="post">
+                <input type="hidden" name="type" value="plusOne">
+                <button class="w-44 h-44 border rounded shadow bg-yellow-500">+1</button>
+            </form>
+            <form action="/numberhandler" method="post">
+                <input type="hidden" name="type" value="timesTwo">
+                <button class="w-44 h-44 border rounded shadow bg-red-500">x2</button>
+            </form>
+        </div>
+        <div class="flex flex-col gap-3">
+            <form action="/numberhandler" method="post">
+                <input type="hidden" name="type" value="minusOne">
+                <button class="w-44 h-44 border rounded shadow bg-blue-500">-1</button>
+            </form>
+            <form action="/numberhandler" method="post">
+                <input type="hidden" name="type" value="random">
+                <button class="w-44 h-44 border rounded shadow bg-green-500">Random</button>
+            </form>
+        </div>
+    </div>
+</div>
