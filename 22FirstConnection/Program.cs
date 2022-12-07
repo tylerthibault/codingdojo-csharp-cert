@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using ${1:project name}.Models;
+using _22FirstConnection.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
