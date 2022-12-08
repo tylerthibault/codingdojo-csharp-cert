@@ -1,0 +1,47 @@
+@model Dish
+
+<div class="flex flex-col items-center">
+    <h1 class="display-4">Add a New Dish</h1>
+    <nav class="flex justify-center">
+        <ul class="flex gap-3">
+            <li><a href="/">Home</a></li>
+            <li><a href="/dish/new">Add a Dish</a></li>
+        </ul>
+    </nav>
+</div>
+
+<div>
+    <form class="flex justify-center items-start gap-3" action="/dish/create" method="post">
+        <div class="flex flex-col items-center">
+            <div class="mb-3 flex flex-col items-center">
+                <label class="text-xs" asp-for="Name"></label>
+                <input class="border rounded-md" asp-for="Name">
+            </div>
+            <div class="mb-3 flex flex-col items-center">
+                <label class="text-xs" asp-for="Chef"></label>
+                <input class="border rounded-md" asp-for="Chef">
+            </div>
+            <div class="mb-3 flex flex-col items-center">
+                <label class="text-xs" asp-for="Calories"></label>
+                <input class="border rounded-md" asp-for="Calories">
+            </div>
+        </div>
+        <div class="mb-3 flex flex-col items-center">
+            <label class="text-xs" asp-for="Tastiness"></label>
+            <select class="border rounded-md" asp-for="Tastiness">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+        </div>
+        <div class="flex flex-col items-center">
+            <div class="mb-3 flex flex-col items-center">
+                <label class="text-xs" asp-for="Description"></label>
+                <textarea class="border rounded-md" asp-for="Description"></textarea>
+            </div>
+            <button class="bg-green-500 px-3 rounded hover:bg-green-300">Add Dish</button>
+        </div>
+    </form>
+</div>

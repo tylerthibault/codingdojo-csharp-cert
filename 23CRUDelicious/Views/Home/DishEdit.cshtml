@@ -1,0 +1,49 @@
+@model Dish
+
+<div class="flex flex-col items-center">
+    <h1 class="display-4">Edit a @Model.Name</h1>
+    <nav class="flex justify-center">
+        <ul class="flex gap-3">
+            <li><a href="/">Home</a></li>
+            <li><a href="/dish/new">Add a Dish</a></li>
+        </ul>
+    </nav>
+</div>
+
+<div>
+    <form class="flex justify-center items-start gap-3 " asp-action="DishUpdate" asp-route-DishId="@Model.DishId" method="post">
+        <div class="flex flex-col items-center">
+            <div class="mb-3 flex flex-col items-center ">
+                <label class="text-xs" asp-for="Name"></label>
+                <input class="border rounded-md text-center" asp-for="Name" value="@Model.Name">
+            </div>
+            <div class="mb-3 flex flex-col items-center ">
+                <label class="text-xs" asp-for="Chef"></label>
+                <input class="border rounded-md text-center" asp-for="Chef" value="@Model.Chef">
+            </div>
+            <div class="mb-3 flex flex-col items-center ">
+                <label class="text-xs" asp-for="Calories"></label>
+                <input class="border rounded-md text-center" asp-for="Calories" value="@Model.Calories">
+            </div>
+        </div>
+        <div class="mb-3 flex flex-col items-center">
+            <label class="text-xs" asp-for="Tastiness"></label>
+            <select class="border rounded-md" asp-for="Tastiness">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+        </div>
+        <div class="flex flex-col items-center">
+            <div class="mb-3 flex flex-col items-center">
+                <label class="text-xs" asp-for="Description"></label>
+                <textarea class="border rounded-md text-center" asp-for="Description" cols="30" rows="7">
+                    @Model.Description
+                </textarea>
+            </div>
+            <button class="bg-green-500 px-3 rounded hover:bg-green-300">Edit Dish</button>
+        </div>
+    </form>
+</div>
