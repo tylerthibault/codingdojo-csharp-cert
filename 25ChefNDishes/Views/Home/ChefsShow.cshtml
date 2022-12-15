@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model List<Chef>
+
+<div class="text-center">
+    <h1 class="text-4xl underline">Check out our roster of chefs!</h1>
+</div>
+<div class="flex justify-center mt-3">
+    <table class="w-full">
+        <thead>
+            <tr class="text-center">
+                <th class="border bg-slate-700 text-white">Name</th>
+                <th class="border bg-slate-700 text-white">Age</th>
+                <th class="border bg-slate-700 text-white">Number of Dishes</th>
+            </tr>
+        </thead>
+        <tbody class="">
+            @foreach (var Chef in Model)
+            {
+                <tr class="text-center">
+                    <td class="border">@Chef.FirstName @Chef.LastName</td>
+                    <td class="border">@{@Math.Round(DateTime.Now.Subtract(Chef.DOB).TotalDays / 365);}</td>
+                    <td class="border">@Chef.CreatedDishes.Count()</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

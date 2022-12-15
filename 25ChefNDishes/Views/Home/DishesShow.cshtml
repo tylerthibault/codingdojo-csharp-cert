@@ -1,0 +1,34 @@
+@{
+    ViewData["Title"] = "Dishes Show";
+}
+
+@model MyViewModel
+
+<div class="text-center">
+    <h1 class="text-4xl underline">Yum! Check out our tasty dishes!</h1>
+</div>  
+<div class="flex justify-center">
+    <table class="w-full mt-3">
+        <thead>
+            <tr class="text-center bg-slate-700 text-white">
+                <th class="border">Name</th>
+                <th class="border">Chef</th>
+                <th class="border">Tastiness</th>
+                <th class="border">Calories</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                foreach (Dish dish in @Model.AllDishes)
+                {
+                    <tr class="text-center">
+                        <td class="border">@dish.Name</td>
+                        <td class="border">@dish.Chef.FirstName @dish.Chef.LastName</td>
+                        <td class="border">@dish.Tastiness</td>
+                        <td class="border">@dish.Calories</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,21 @@
+@model Chef
+
+<form action="/chef/create" method="post">
+    <div class="my-2 flex gap-3 items-center">
+        <label class="text-sm" asp-for="FirstName">First Name</label>
+        <input class="border" asp-for="FirstName">
+        <span asp-validation-for="FirstName"></span>
+    </div>
+    <div class="my-2 flex gap-3 items-center">
+        <label class="text-sm" asp-for="LastName">Last Name</label>
+        <input class="border" asp-for="LastName">
+        <span asp-validation-for="LastName"></span>
+    </div>
+    <div class="my-2 flex gap-3 items-center">
+        <label class="text-sm" asp-for="DOB">Date of Birth</label>
+        <input class="border" asp-for="DOB">
+        <span asp-validation-for="DOB"></span>
+    </div>
+    <button class="border rounded px-3 shadow-sm">Add Chef</button>
+</form>
+
