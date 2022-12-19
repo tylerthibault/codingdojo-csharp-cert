@@ -1,0 +1,76 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _27WeddingPlanner
+build_property.RootNamespace = _27WeddingPlanner
+build_property.ProjectDir = C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\27WeddingPlanner\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\thiba\OneDrive\Documents\Coding\01MYPREP\codingdojo-csharp-cert\27WeddingPlanner
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/thiba/OneDrive/Documents/Coding/01MYPREP/codingdojo-csharp-cert/27WeddingPlanner/Views/Home/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiba/OneDrive/Documents/Coding/01MYPREP/codingdojo-csharp-cert/27WeddingPlanner/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiba/OneDrive/Documents/Coding/01MYPREP/codingdojo-csharp-cert/27WeddingPlanner/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiba/OneDrive/Documents/Coding/01MYPREP/codingdojo-csharp-cert/27WeddingPlanner/Views/Home/WeddingNew.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXZWRkaW5nTmV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiba/OneDrive/Documents/Coding/01MYPREP/codingdojo-csharp-cert/27WeddingPlanner/Views/Home/WeddingShow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXZWRkaW5nU2hvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiba/OneDrive/Documents/Coding/01MYPREP/codingdojo-csharp-cert/27WeddingPlanner/Views/Home/_associationForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfYXNzb2NpYXRpb25Gb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiba/OneDrive/Documents/Coding/01MYPREP/codingdojo-csharp-cert/27WeddingPlanner/Views/Home/_login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfbG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiba/OneDrive/Documents/Coding/01MYPREP/codingdojo-csharp-cert/27WeddingPlanner/Views/Home/_navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfbmF2YmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiba/OneDrive/Documents/Coding/01MYPREP/codingdojo-csharp-cert/27WeddingPlanner/Views/Home/_register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfcmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiba/OneDrive/Documents/Coding/01MYPREP/codingdojo-csharp-cert/27WeddingPlanner/Views/Home/_weddingForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfd2VkZGluZ0Zvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiba/OneDrive/Documents/Coding/01MYPREP/codingdojo-csharp-cert/27WeddingPlanner/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiba/OneDrive/Documents/Coding/01MYPREP/codingdojo-csharp-cert/27WeddingPlanner/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiba/OneDrive/Documents/Coding/01MYPREP/codingdojo-csharp-cert/27WeddingPlanner/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiba/OneDrive/Documents/Coding/01MYPREP/codingdojo-csharp-cert/27WeddingPlanner/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thiba/OneDrive/Documents/Coding/01MYPREP/codingdojo-csharp-cert/27WeddingPlanner/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-47w4l2kbev

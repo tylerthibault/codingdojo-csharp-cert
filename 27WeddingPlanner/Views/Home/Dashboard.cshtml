@@ -1,0 +1,48 @@
+@{
+    ViewData["Title"] = "Dashboard Page";
+}
+
+@model MyViewModel
+
+
+<div>
+    
+    @await Html.PartialAsync("_navbar", Model.User)
+    <table class="w-full">
+        <thead>
+            <th>Wedding of</th>
+            <th>Date</th>
+            <th>Guest Count</th>
+            <th>Action</th>
+        </thead>
+        <tbody>
+            @foreach (Wedding w in Model.AllWeddings)
+            {
+                <tr>
+                    <td><a href="/wedding/@w.WeddingId">@w.WedderOne & @w.WedderTwo</a></td>
+                    <td>@w.Date</td>
+                    <td>@w.AllUsers.Count()</td>
+                    <td>
+                        @{
+                            Association? RSVPtoRemove = w.AllUsers.FirstOrDefault(u => u.UserId == Model.User.UserId);
+                        }
+                        <form asp-action="AssociationCreate" asp-controller="Home" method="post">
+                                <input type="hidden" name="WeddingId" value="@w.WeddingId">
+                                <button>
+                                    @if (RSVPtoRemove == null)
+                                    {
+                                        <span>Join</span>
+                                    }
+                                    else
+                                    {
+                                        <span>Leave</span>
+                                    }
+                                </button>
+                            </form>
+                        @* <a href="/association/create/@w.WeddingId">Join</a> *@
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

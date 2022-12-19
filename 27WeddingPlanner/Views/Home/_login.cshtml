@@ -1,0 +1,15 @@
+@model Login
+
+<form asp-action="ProcessLogin" asp-controller="Home" method="post">
+    <div class="mb-3">
+        <label asp-for="EmailLogin">Email</label>
+        <input asp-for="EmailLogin" class="form-control" value="tt@email.com">
+        <span asp-validation-for="EmailLogin" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="PasswordLogin">Password</label>
+        <input asp-for="PasswordLogin" class="form-control" value="Thibault">
+        <span asp-validation-for="PasswordLogin" class="text-danger"></span>
+    </div>
+    <button class="border px-3">Login</button>
+</form>

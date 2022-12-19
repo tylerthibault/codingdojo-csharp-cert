@@ -1,0 +1,13 @@
+@{
+    ViewData["Title"] = "Dashboard Page";
+}
+
+@model MyViewModel
+
+<div>
+    @await Html.PartialAsync("_navbar", Model.User)
+    <div>
+        <h2 class="text-2xl">Planning a Wedding</h2>
+        @await Html.PartialAsync("_weddingForm", Model.Wedding)
+    </div>
+</div>

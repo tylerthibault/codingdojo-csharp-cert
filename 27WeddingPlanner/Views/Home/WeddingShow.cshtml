@@ -1,0 +1,10 @@
+@model MyViewModel
+
+<div>
+    @await Html.PartialAsync("_navbar", Model.User)
+    <h1 class="text-2xl">@Model.Wedding.WedderOne & @Model.Wedding.WedderTwo</h1>
+</div>
+<div>
+    <p>Date: @Model.Wedding.Date</p>
+    <p>Guests:</p>
+</div>

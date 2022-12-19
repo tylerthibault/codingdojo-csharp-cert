@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model MyViewModel
+
+<div class="grid grid-cols-2 gap-5">
+    <div>
+        <h2 class="text-2xl">Register</h2>
+        @await Html.PartialAsync("_register", Model.User)
+        
+    </div>
+    <div>
+        <h2 class="text-2xl">Login</h2>
+        @await Html.PartialAsync("_login", Model.Login)
+    </div>
+</div>

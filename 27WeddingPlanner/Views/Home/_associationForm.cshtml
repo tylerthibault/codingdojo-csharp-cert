@@ -1,0 +1,8 @@
+@model Association
+
+<form asp-action="AssociationCreate" asp-controller="Home" method="post">
+    <div class="mb-3">
+        <input type="hidden" asp-for="WeddingId" value="@Model.WeddingId">
+    </div>
+    <button>Join</button>
+</form>
