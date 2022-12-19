@@ -1,0 +1,43 @@
+
+@model MyViewModel
+
+<div class="grid grid-cols-2 text-center">
+    <div>
+        <h2>Categories</h2>
+        @foreach (var cat in Model.Product.AllCategories)
+        {
+            <p>@cat.Category.Name</p>
+        }
+    </div>
+    <div>
+        <h2>Add Category</h2>
+        <form asp-action="AssociationCreate" asp-controller="Home" method="post" asp-route-origin="products">
+            <div class="mb-3">
+                <input type="hidden" asp-for="Association.ProductId" value="@Model.Product.ProductId">
+                <label asp-for="Association.CategoryId">Add Category</label>
+                <select asp-for="Association.CategoryId" class="border px-3">
+                    @foreach (var x in Model.AllCategories)
+                    {
+                        <option value="@x.CategoryId">@x.Name</option>
+                    }
+                </select>
+                <span asp-validation-for="Association.CategoryId" class="text-danger"></span>
+            </div>
+            <button class="border px-3">Submit</button>
+        </form>
+        @* <form asp-action="AssociationCreate" asp-controller="Home" asp-route-origin="categories" method="post">
+            <input type="hidden" asp-for="Association.ProductId" value="@Model.Product.ProductId">
+            <div class="mb-3 flex flex-col gap-3">
+                <label asp-for="Association.CategoryId"></label>
+                <select class="border rounded" asp-for="Association.CategoryId">
+                    @foreach (Category p in Model.AllCategories)
+                    {
+                        <option value="@p.CategoryId">@p.Name</option>
+                    }
+                </select>
+                <span asp-validation-for="Association.CategoryId" class="text-danger"></span>
+            </div>
+            <button class="border rounded px-3">Submit</button>
+        </form> *@
+    </div>
+</div>

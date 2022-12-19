@@ -1,0 +1,20 @@
+@model Product
+
+<form asp-action="ProductCreate" asp-controller="Home" method="post">
+    <div class="mb-3">
+        <label asp-for="@Model.Name"></label>
+        <input asp-for="@Model.Name" class="form-control">
+        <span asp-validation-for="@Model.Name" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="@Model.Description"></label>
+        <input asp-for="@Model.Description" class="form-control">
+        <span asp-validation-for="@Model.Description" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="@Model.Price"></label>
+        <input asp-for="@Model.Price" class="form-control">
+        <span asp-validation-for="@Model.Price" class="text-danger"></span>
+    </div>
+    <button class="border px-3 bg-green-300 rounded">Create</button>
+</form>

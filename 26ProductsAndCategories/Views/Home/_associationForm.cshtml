@@ -1,0 +1,21 @@
+@* @model MyViewModel
+
+@if (Model.Category != null)
+{
+    List
+}
+
+<form asp-action="AssociationCreate" asp-controller="Home" asp-route-origin="Categories" method="post">
+    <input type="hidden" asp-for="Association.CategoryId" value="@Model.Category.CategoryId">
+    <div class="mb-3 flex flex-col gap-3">
+        <label asp-for="Association.ProductId"></label>
+        <select class="border rounded" asp-for="Association.ProductId">
+            @foreach (Product p in Model.AllProducts)
+            {
+                <option value="@p.ProductId">@p.Name</option>
+            }
+        </select>
+        <span asp-validation-for="Association.ProductId" class="text-danger"></span>
+    </div>
+    <button class="border rounded px-3">Submit</button>
+</form> *@
