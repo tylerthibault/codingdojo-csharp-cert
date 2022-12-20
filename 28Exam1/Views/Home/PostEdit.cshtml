@@ -1,0 +1,10 @@
+@model Post
+
+<div>
+    @await Html.PartialAsync("_navbar")
+</div>
+
+<div>
+    <h1>Post Edit</h1>
+    @await Html.PartialAsync("_postForm", Model)
+</div>

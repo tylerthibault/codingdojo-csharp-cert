@@ -1,0 +1,25 @@
+@model Post
+
+<form asp-action="PostCreate" asp-controller="home" method="post">
+    <div class="mb-3">
+        <label asp-for="URL"></label>
+        <input asp-for="URL" class="form-control">
+        <span asp-validation-for="URL" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control">
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Medium"></label>
+        <input asp-for="Medium" class="form-control">
+        <span asp-validation-for="Medium" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <input type="checkbox" asp-for="ForSale">
+        <label asp-for="ForSale">For Sale</label>
+        <span asp-validation-for="ForSale" class="text-danger"></span>
+    </div>
+    <button class="border px-3">Post</button>
+</form>

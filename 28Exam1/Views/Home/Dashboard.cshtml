@@ -1,0 +1,62 @@
+@model MyViewModel
+
+<div>
+    @await Html.PartialAsync("_navbar")
+</div>
+
+<div class="flex gap-3">
+    @foreach (var p in Model.AllPosts)
+    {
+        <div class="border p-5">
+            <img src="@p.URL" alt="url">
+            <p><a href="/post/@p.PostId">@p.Title</a></p>
+            <p>@p.User.Name</p>
+            <p>@p.Medium</p>
+            <p>
+                @if (p.ForSale == true)
+                {
+                    <span>For Sale</span>
+                }
+                else
+                {
+                    <span>Not For Sale</span>
+                }
+            </p>
+            <div>
+                @if (p.UserId != ViewBag.uuid)
+                {
+                    Like? YourLike = p.AllUsers.FirstOrDefault(u => u.User.UserId == ViewBag.uuid);
+                    int Sum = p.AllUsers.Count() - 1;
+ 
+                    if (YourLike == null)
+                    {
+                        <a href="/like/@p.PostId">Like</a>
+                    }   
+                    else 
+                    {
+                        <div class="flex flex-col">
+                        @if (Sum > 1)
+                        {
+                        <span>Liked by you and @Sum others</span>
+                        }
+                        else if (Sum == 1)
+                        {
+                        <span>Liked by you and @Sum other</span>
+                        }
+                        else 
+                        {
+                        <span>Liked by you</span>
+                        }
+                        <a href="/like/@p.PostId">Unlike</a>
+                        </div>
+                    }
+                }
+            </div>
+            @if (p.UserId == ViewBag.uuid)
+            {
+                <a href="/post/@p.PostId/edit">Edit</a>
+                <a href="/post/@p.PostId/delete">Delete</a>
+            }
+        </div>
+    }
+</div>

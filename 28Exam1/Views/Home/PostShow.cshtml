@@ -1,0 +1,33 @@
+@model Post
+
+
+<div>
+    @await Html.PartialAsync("_navbar")
+</div>
+<div>
+    <h1 class="text-4xl">@Model.Title</h1>
+    <div class="flex gap-3">
+        <div>
+            <img src="@Model.URL" alt="url">
+        </div>
+        <div>
+            <p>By: @Model.User.Name</p>
+            <p>Medium: @Model.Medium</p>
+            <p>For Sale: @if (@Model.ForSale == true)
+            {
+                <span>For Sale</span>
+            }
+            else 
+            {
+                <span>Not For Sale</span>
+            }
+            </p>
+            <p>Likes:</p>
+            @if (Model.UserId == ViewBag.uuid)
+            {
+                <a href="/post/@Model.PostId/edit">Edit</a>
+                <a href="/post/@Model.PostId/delete">Delete</a>
+            }
+        </div>
+    </div>
+</div>

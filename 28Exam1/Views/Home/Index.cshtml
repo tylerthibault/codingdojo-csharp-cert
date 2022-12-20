@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="mt-2 mb-5">
+    <h1 class="text-4xl">Welcome to Artstagram!</h1>
+</div>
+
+<div class="grid grid-cols-2 gap-5 text-center">
+    <div>
+        <h2 class="text-2xl">Register</h2>
+        @await Html.PartialAsync("_register")
+    </div>
+    <div>
+        <h2 class="text-2xl">Login</h2>
+        @await Html.PartialAsync("_login")
+    </div>
+</div>
