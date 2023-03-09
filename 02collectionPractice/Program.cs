@@ -18,6 +18,13 @@ bool[] arr3 = {
     false,
 };
 
+bool[] arr = new bool[10];
+
+for (int i = 0; i < arr.Length; i++) {
+    arr[i] = (i % 2 == 0) ? true : false;
+}
+
+
 
 List<string> icecream = new List<string>();
 icecream.Add("vanilla");
